@@ -1,5 +1,6 @@
 def welcome
   # puts out a welcome message here!
+  puts "wassup peoples"
 end
 
 def get_character_from_user
